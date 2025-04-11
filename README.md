@@ -7,7 +7,7 @@ batファイルを実行してmotファイルを作る。asmは同じディレ�
 
 E2 LiteとArduino_UNO_R4_MinimaをSWD接続。
 
-書き込み
+Renesas Flash Programmerで書き込み
 
 ケーブルを外す
 
