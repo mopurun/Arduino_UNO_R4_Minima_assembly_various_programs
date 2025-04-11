@@ -14,4 +14,7 @@ Renesas Flash Programmerで書き込み
 USBケーブルを繋いで電源供給し、動作確認する。
 
 ## SWD接続ケーブル
+
+秋月電子通商で買ったケーブル（確か、販売コード 106777、106776）を改造して作りました。
+
 ![cable_image1](cable_image1.jpg)
