@@ -1,6 +1,8 @@
 # Arduino_UNO_R4_Minima_assembly_various_programs
 Arduino UNO R4 Minimaをアセンブリ言語で動かしてみました。
 
+※Arduinoのブートローダを消去してしまい、Arduinoとして使うことができなくなるので注意してください。
+
 手順は以下の通りです。Windowsでやりました。
 
 - batファイルを実行してmotファイルを作る。asmは同じディレクトリ。
